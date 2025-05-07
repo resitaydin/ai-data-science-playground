@@ -1,0 +1,17 @@
+# uv / Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# MacOS metadata
+.DS_Store
+
+# Logs
+*.log
